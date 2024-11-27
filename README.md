@@ -23,3 +23,5 @@ Las condiciones de contorno estan definidas como:
 
 2-En la segunda parte se entrena un modelo PINN en la que se consideran las condiciones de contorno.
   Para <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>&#xA0;</mo><mo>=</mo><mo>&#xA0;</mo><mn>0</mn><mo>&#x21d2;</mo><mo>&#xA0;</mo><mi>&#x3b8;</mi><mo>&#xA0;</mo><mo>=</mo><mo>&#xA0;</mo><mn>1</mn></math>, para que <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>&#x3b8;</mi><mo>&#xA0;</mo><mo>=</mo><mo>&#xA0;</mo><mn>1</mn></math> T = Tb.
+ Para <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>x</mi><mo>&#xA0;</mo><mo>=</mo><mo>&#xA0;</mo><mn>1</mn><mo>&#x21d2;</mo><mo>&#xA0;</mo><mfrac><mrow><mi>d</mi><mi>&#x3b8;</mi></mrow><mrow><mi>d</mi><mi>x</mi></mrow></mfrac><mo>&#xA0;</mo><mo>=</mo><mo>&#xA0;</mo><mn>0</mn></math>
+ Por lo que el primer termino de la ecuacion diferencia se anula, 
