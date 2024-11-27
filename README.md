@@ -29,3 +29,5 @@ Las condiciones de contorno estan definidas como:
  Por lo que el primer termino de la ecuacion diferencia se anula y nos queda 
  
  <math xmlns="http://www.w3.org/1998/Math/MathML"><msup><mi>N</mi><mn>2</mn></msup><mo>&#xA0;</mo><mi>&#x3b8;</mi><mo>&#xA0;</mo><mi>G</mi><mo>(</mo><mn>1</mn><mo>+</mo><mi>&#x3b5;</mi><mo>*</mo><mi>&#x3b8;</mi><mo>)</mo><mo>&#xA0;</mo><mo>=</mo><mo>&#xA0;</mo><mn>0</mn></math>
+
+ Desarrollando y hallando las raices obtenemos que <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>&#x3b8;</mi><mo>&#xA0;</mo><mo>=</mo><mo>&#xA0;</mo><mn>0</mn></math>, lo que se da si T = Tinf.
